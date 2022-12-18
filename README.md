@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamarghamallick
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning coding in JAVA, PYTHON, C++ and some other programing languages.
+- 🌱 I’m currently learning coding in PYTHON, C++ and JAVA.
 - 💞️ I’m looking to collaborate on web development.
 
 ## 📫 How to reach me -->
