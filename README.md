@@ -5,11 +5,11 @@
 - 📫 How to reach me -->
 Email: contact.arghamallick@gmail.com
 
-https://twitter.com/iamarghamallick
-https://instagram.com/iamarghamallick
-https://facebook.com/iamarghamallick
+Linkedln - https://www.linkedin.com/in/argha-mallick-8b81251a3/
+Twitter - https://twitter.com/iamarghamallick
+Instagram - https://instagram.com/iamarghamallick
+Facebook - https://facebook.com/iamarghamallick
 
-My Photo Blog: https://arghamallickphotography.blogspot.com
 
 <!---
 iamarghamallick/iamarghamallick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
