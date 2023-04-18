@@ -6,7 +6,7 @@
 ## 📫 How to reach me -->
 - Email: contact.arghamallick@gmail.com
 
-- Linkedln - https://www.linkedin.com/in/argha-mallick-8b81251a3/
+- Linkedln - https://in.linkedin.com/in/iamarghamallick
 - Twitter - https://twitter.com/iamarghamallick
 - Instagram - https://instagram.com/iamarghamallick
 - Facebook - https://facebook.com/iamarghamallick
