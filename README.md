@@ -2,7 +2,7 @@
   <img src="assets/banner.png">
 </p>
 
-## Its just a Mere Beginning🔥💥
+## Hello People, Welcome back! 🔥💥
 
 <p align="centre">
   <img src="https://komarev.com/ghpvc/?username=iamarghamallick&label=Profile%20views&color=0e75b6&style=flat" alt="iamarghamallick" />
@@ -18,17 +18,17 @@
 
 ---
 
-- 🌱 I’m currently learning **Mechine Learning, Backend Development With latest Technologies**.
+- 🌱 I’m currently learning **Machine Learning, AI and Backend Development With latest Technologies**.
 
-- ❤️ I'm Currently Persuing my **BTech** in **Computer Science and Engineering (CSE)**.
+- ❤️ I'm Currently Persuing my **B Tech** in **Computer Science and Engineering (CSE)**.
 
 - 🔥 I've started Exploring the Field of GoogleCloud as well ✨ and Hope to Contribute to that Field as well.
 
-- 💬 Ask me about **GoogleCloud Programs, Python, Java, JavaScript, C , C++ etc**
+- 💬 Ask me about **GoogleCloud Programs, Python, Java, JavaScript, C, C++ etc**
 
 - 📫 How to reach me **contact.arghamallick@gmail.com**
 
-- 🔥🔥 Have a look at [**My Portfolio**]( https://iamarghamallick.github.io/portfolio) and contact me from there! 🔥🔥
+- 🔥🔥 Have a look at [**My Portfolio**](https://iamarghamallick.github.io/portfolio) and you can contact me from there! 🔥🔥
 
 ---
 
@@ -136,6 +136,3 @@
 </p>
 
 ----
-
-
-
