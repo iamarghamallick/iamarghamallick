@@ -26,15 +26,15 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamarghamallick&show_icons=true&locale=en&layout=compact&&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamarghamallick&show_icons=true&locale=en&layout=compact&&theme=radical" width="50%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamarghamallick&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iamarghamallick&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false" width="50%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iamarghamallick&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="iamarghamallick"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iamarghamallick&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="iamarghamallick" width="50%"/>
 </div>
 
 <div align=center>
@@ -73,11 +73,11 @@
 ---
 
 <div align="center">
-  <img alt="github-over-time" src="https://stats.quine.sh/iamarghamallick/github?theme=dark">
+  <img alt="github-over-time" src="https://stats.quine.sh/iamarghamallick/github?theme=dark" width="50%">
 </div>
 
 <div align="center">
-  <img alt="languages-over-time" src="https://stats.quine.sh/iamarghamallick/languages-over-time?theme=dark">
+  <img alt="languages-over-time" src="https://stats.quine.sh/iamarghamallick/languages-over-time?theme=dark" width="50%">
 </div>
 
 ---
