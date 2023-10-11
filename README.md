@@ -1,12 +1,16 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif">
+	<a href="https://iamarghamallick.github.io/portfolio/" target="_blank">
+		<img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif">
+	</a>
 </p>
 
 <h1 align="center">Hello, I'm <a href="https://www.linkedin.com/in/iamarghamallick/" target="_blank" rel="noopener noreferrer">Argha Mallick</a> <img src="assets/Hi.gif" height="30" />
 <h2 align="center">A passionate developer from India ❤️</h1>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=iamarghamallick&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views"/>
+	<a href="https://iamarghamallick.github.io/portfolio/" target="_blank">
+		<img src="https://komarev.com/ghpvc/?username=iamarghamallick&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views"/>
+	</a>
 </p>
 
 ---
@@ -26,19 +30,27 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamarghamallick&show_icons=true&locale=en&layout=compact&&theme=radical" width="50%"/>
+	<a href="https://iamarghamallick.github.io/portfolio/" target="_blank">
+  		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamarghamallick&show_icons=true&locale=en&layout=compact&&theme=radical" width="80%"/>
+	</a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamarghamallick&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false" width="50%"/>
+	<a href="https://iamarghamallick.github.io/portfolio/" target="_blank">
+  		<img src="https://github-readme-stats.vercel.app/api?username=iamarghamallick&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false" width="80%"/>
+	</a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iamarghamallick&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="iamarghamallick" width="50%"/>
+	<a href="https://iamarghamallick.github.io/portfolio/" target="_blank">
+  		<img src="https://github-readme-streak-stats.herokuapp.com?user=iamarghamallick&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="iamarghamallick" width="80%"/>
+	</a>
 </div>
 
 <div align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=iamarghamallick&no-bg=true&theme=radical&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers,Stars&column=6" alt="zumrudu-anka" width=200% height=100%/>
+	<a href="https://iamarghamallick.github.io/portfolio/" target="_blank">
+  		<img src="https://github-profile-trophy.vercel.app/?username=iamarghamallick&no-bg=true&theme=radical&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers,Stars&column=6" alt="zumrudu-anka" width=200% height=100%/>
+	</a>
 </div>
 
 
@@ -73,11 +85,15 @@
 ---
 
 <div align="center">
-  <img alt="github-over-time" src="https://stats.quine.sh/iamarghamallick/github?theme=dark" width="50%">
+	<a href="https://iamarghamallick.github.io/portfolio/" target="_blank">
+		<img alt="github-over-time" src="https://stats.quine.sh/iamarghamallick/github?theme=dark" width="80%">
+	</a>
 </div>
 
 <div align="center">
-  <img alt="languages-over-time" src="https://stats.quine.sh/iamarghamallick/languages-over-time?theme=dark" width="50%">
+	<a href="https://iamarghamallick.github.io/portfolio/" target="_blank">
+		<img alt="languages-over-time" src="https://stats.quine.sh/iamarghamallick/languages-over-time?theme=dark" width="80%">
+	</a>
 </div>
 
 ---
