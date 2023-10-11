@@ -1,24 +1,17 @@
 <p align="center">
-  <img src="assets/banner.png">
+  <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif">
 </p>
 
-## Hello People, Welcome back! 🔥💥
+<h1 align="center">Hello, I'm <a href="https://www.linkedin.com/in/iamarghamallick/" target="_blank" rel="noopener noreferrer">Argha Mallick</a> <img src="assets/Hi.gif" height="30" />
+<h2 align="center">A passionate developer from India ❤️</h1>
 
-<p align="centre">
-  <img src="https://komarev.com/ghpvc/?username=iamarghamallick&label=Profile%20views&color=0e75b6&style=flat" alt="iamarghamallick" />
-</p>
-
-<p align="centre">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamarghamallick" alt="iamarghamallick" /></a>
-</p>
-
-<p align="center">
- <img src="https://media.giphy.com/media/bXhiABcqQGT3W/giphy-downsized-large.gif">
+<p>
+  <img src="https://komarev.com/ghpvc/?username=iamarghamallick&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views"/>
 </p>
 
 ---
 
-- 🌱 I’m currently learning **Machine Learning, AI and Backend Development With latest Technologies**.
+- 🌱 I’m currently learning **Machine Learning, AI and Backend Development Technologies**.
 
 - ❤️ I'm Currently Persuing my **B Tech** in **Computer Science and Engineering (CSE)**.
 
@@ -32,20 +25,27 @@
 
 ---
 
-<h3 align="left">Connect with Me</h3>
-<p align="left">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamarghamallick&show_icons=true&locale=en&layout=compact&&theme=radical"/>
+</div>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/iamarghamallick)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamarghamallick&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false"/>
+</div>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iamarghamallick/)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iamarghamallick&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="iamarghamallick"/>
+</div>
 
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/iamarghamallick)
+<div align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=iamarghamallick&no-bg=true&theme=radical&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers,Stars&column=6" alt="zumrudu-anka" width=200% height=100%/>
+</div>
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:contact.arghamallick@gmail.com)
 
-----
 
-<h3 align="center">Languages and Tools</h3>
+---
+
+<h3 align="center">Actively Learning</h3>
 <br>
 
 <div align="center" style="display:flex; gap:10px; margin:10px;">
@@ -70,7 +70,21 @@
 <br>
 <br>
 
-----
+---
+
+<div align="center">
+  <img alt="github-over-time" src="https://stats.quine.sh/iamarghamallick/github?theme=dark">
+</div>
+
+<div align="center">
+  <img alt="languages-over-time" src="https://stats.quine.sh/iamarghamallick/languages-over-time?theme=dark">
+</div>
+
+---
+
+<br/>
+<br/>
+
 ### Front-end Dev skills:
 
 <p>
@@ -84,7 +98,7 @@
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
-----
+---
 
 ### Back-end Dev skills:
 
@@ -97,42 +111,32 @@
   <img src="https://img.shields.io/badge/MySQL-CB3837?style=for-the-badge&logo=MySQL&logoColor=white"/>
 </p>
 
-----
+---
 
-<h3 align="left">Support Me</h3>
+### Support Me
 <p>
   <a href="https://www.buymeacoffee.com/itsargha">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/itsargha" />
   </a>
 </p>
-<br>
-<br>
-<br>
-
-<p>
-  <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamarghamallick&show_icons=true&locale=en&layout=compact" alt="iamarghamallick" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamarghamallick&show_icons=true&locale=en" alt="iamarghamallick" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamarghamallick&" alt="iamarghamallick" />
-</p>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ---
 
-<center>
- <p align="center">
-  <img src="https://raw.githubusercontent.com/ishikkkkaaaa/ishikkkkaaaa/output/github-contribution-grid-snake.svg" alt="snake">
-</center>
-</p>
+<div align="center">
+  <h2>Follow me around the Web</h2><br>
+  <a href="https://www.linkedin.com/in/iamarghamallick" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/iamarghamallick" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://twitter.com/iamarghamallick" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+</div>
 
-----
+---
 
 <p align="center">
  <img src="assets/Cool.gif">
 </p>
 
-----
+---
