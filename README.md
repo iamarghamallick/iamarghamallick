@@ -61,21 +61,24 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,py,java" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,tailwind,nodejs,express,react,nextjs,flask,ts,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=netlify,vercel,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=git,github,netlify,vercel,vscode,visualstudio" />
   </a>
 </p>
-
----
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nextjs,flask,mysql,mongodb" />
+  </a>
+</p>
 
 <div align="center">
 	<a href="https://iamarghamallick.github.io/portfolio/" target="_blank">
