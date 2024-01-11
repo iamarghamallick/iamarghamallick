@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="my banner"></a>
+  <img src="https://github.com/iamarghamallick/iamarghamallick/blob/main/assets/header.svg" alt="my banner"></a>
 </p>
 <h2 align="center">A passionate developer from India ❤️</h1>
 <p align="right">
@@ -114,7 +114,7 @@
 ---
 
 <p align="center">
- <img src="assets/Cool.gif">
+ <img src="https://github.com/iamarghamallick/iamarghamallick/blob/main/assets/Cool.gif">
 </p>
 
 ---
