@@ -17,7 +17,7 @@
 
 - 🔥 I've started Exploring the Field of GoogleCloud as well ✨ and Hope to Contribute to that Field as well.
 
-- 💬 Ask me about **GoogleCloud Programs, Python, Java, JavaScript, C, C++ etc**
+- 💬 Ask me about **GoogleCloud Programs, Python, Java, JavaScript, C, C++ etc.**
 
 - 📫 How to reach me **contact.arghamallick@gmail.com**
 
