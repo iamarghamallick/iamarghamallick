@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/iamarghamallick/iamarghamallick/blob/main/assets/header.svg" alt="my banner"></a>
 </p>
-<h2 align="center">A passionate developer from India ❤️</h1>
+<h2 align="center">A passionate developer from Kolkata, India ❤️</h1>
 <p align="right">
 	<a href="https://iamarghamallick.github.io/portfolio/" target="_blank">
 		<img src="https://komarev.com/ghpvc/?username=iamarghamallick&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views"/>
