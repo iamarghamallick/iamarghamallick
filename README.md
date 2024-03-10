@@ -62,12 +62,12 @@
 <h1 align="center">My Coding Profiles</h1>
 <div align="center">
 	<a href="https://leetcode.com/iamarghamallick/" target="_blank">
-		<img src="./assets/leetcode.png" alt="leetcode-profile"/>
+		<img src="https://github.com/iamarghamallick/iamarghamallick/blob/main/assets/leetcode.png" alt="leetcode-profile"/>
 	</a>
 	<span>&nbsp;</span>
 	<span>&nbsp;</span>
 	<a href="https://auth.geeksforgeeks.org/user/iamarghamallick" 	target="_blank">
-		<img src="./assets/gfg.png" alt="gfg-profile"/>
+		<img src="https://github.com/iamarghamallick/iamarghamallick/blob/main/assets/gfg.png" alt="gfg-profile"/>
 	</a>
 </div>
 </br>
