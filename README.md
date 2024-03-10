@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/iamarghamallick/iamarghamallick/blob/main/assets/header.svg" alt="my banner"></a>
+  <img src="https://github.com/iamarghamallick/iamarghamallick/blob/main/assets/header.svg" alt="my banner">
 </p>
 <h2 align="center">A passionate developer from Kolkata, India ❤️</h1>
 <p align="right">
@@ -24,6 +24,18 @@
 - 🔥🔥 Have a look at [**My Portfolio**](https://iamarghamallick.github.io/portfolio) and you can contact me from there! 🔥🔥
 
 ---
+
+<h1 align="center">My Coding Profiles</h1>
+<div align="center">
+	<a href="https://leetcode.com/iamarghamallick/" target="_blank">
+		<img src="./assets/leetcode.png" alt="leetcode-profile"/>
+	</a>
+	<span>&nbsp;</span>
+	<span>&nbsp;</span>
+	<a href="https://auth.geeksforgeeks.org/user/iamarghamallick" 	target="_blank">
+		<img src="./assets/gfg.png" alt="gfg-profile"/>
+	</a>
+</div>
 
 <div align="center">
 	<a href="https://iamarghamallick.github.io/portfolio/" target="_blank">
