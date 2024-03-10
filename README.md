@@ -25,18 +25,6 @@
 
 ---
 
-<h1 align="center">My Coding Profiles</h1>
-<div align="center">
-	<a href="https://leetcode.com/iamarghamallick/" target="_blank">
-		<img src="./assets/leetcode.png" alt="leetcode-profile"/>
-	</a>
-	<span>&nbsp;</span>
-	<span>&nbsp;</span>
-	<a href="https://auth.geeksforgeeks.org/user/iamarghamallick" 	target="_blank">
-		<img src="./assets/gfg.png" alt="gfg-profile"/>
-	</a>
-</div>
-
 <div align="center">
 	<a href="https://iamarghamallick.github.io/portfolio/" target="_blank">
   		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamarghamallick&show_icons=true&locale=en&layout=compact&&theme=radical" width="80%"/>
@@ -71,6 +59,19 @@
 </p>
 <br>
 
+<h1 align="center">My Coding Profiles</h1>
+<div align="center">
+	<a href="https://leetcode.com/iamarghamallick/" target="_blank">
+		<img src="./assets/leetcode.png" alt="leetcode-profile"/>
+	</a>
+	<span>&nbsp;</span>
+	<span>&nbsp;</span>
+	<a href="https://auth.geeksforgeeks.org/user/iamarghamallick" 	target="_blank">
+		<img src="./assets/gfg.png" alt="gfg-profile"/>
+	</a>
+</div>
+</br>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,py" />
@@ -88,7 +89,12 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nextjs,flask,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nextjs" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flask,mysql,mongodb,gcp" />
   </a>
 </p>
 
