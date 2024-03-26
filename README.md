@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="https://github.com/iamarghamallick/iamarghamallick/blob/main/assets/header.svg" alt="my banner">
-</p>
-<h2 align="center">A passionate developer from Kolkata, India ❤️</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+Argha+Mallick,+a+CS+undergrad+from+Kolkata,+India.;Passionate+about+technologies+and+its+limitless+possibilities!;&center=true&color=40b983&duration=7000&multiline=false&width=1000)](https://github.com/iamarghamallick)
+
 <p align="right">
 	<a href="https://iamarghamallick.github.io/portfolio/" target="_blank">
 		<img src="https://komarev.com/ghpvc/?username=iamarghamallick&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views"/>
@@ -27,21 +25,23 @@
 
 <div align="center">
 	<a href="https://iamarghamallick.github.io/portfolio/" target="_blank">
-  		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamarghamallick&show_icons=true&locale=en&layout=compact&&theme=radical" width="80%"/>
+  		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamarghamallick&show_icons=true&locale=en&layout=compact&&theme=vue&hide_border=true" width="80%"/>
 	</a>
 </div>
 
 <div align="center">
 	<a href="https://iamarghamallick.github.io/portfolio/" target="_blank">
-  		<img src="https://github-readme-stats.vercel.app/api?username=iamarghamallick&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false" width="80%"/>
+  		<img src="https://github-readme-stats.vercel.app/api?username=iamarghamallick&show_icons=true&locale=en&langs_count=20&count_private=true&theme=vue&layout=compact&hide_border=true" width="80%"/>
 	</a>
 </div>
 
 <div align="center">
 	<a href="https://iamarghamallick.github.io/portfolio/" target="_blank">
-  		<img src="https://github-readme-streak-stats.herokuapp.com?user=iamarghamallick&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="iamarghamallick" width="80%"/>
+  		<img src="https://github-readme-streak-stats.herokuapp.com?user=iamarghamallick&theme=vue&bg_color=00000000&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="iamarghamallick" width="80%"/>
 	</a>
 </div>
+
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamarghamallick&theme=vue&bg_color=00000000&hide_border=true)](https://iamarghamallick.github.io/portfolio/)
 
 <div align=center>
 	<a href="https://iamarghamallick.github.io/portfolio/" target="_blank">
