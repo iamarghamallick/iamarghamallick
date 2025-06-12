@@ -99,29 +99,10 @@
 </p>
 
 <div align="center">
-	<a href="https://iamarghamallick.github.io/portfolio/" target="_blank">
-		<img alt="github-over-time" src="https://stats.quine.sh/iamarghamallick/github?theme=dark" width="80%">
+	<a href="https://leetcode.com/u/iamarghamallick/" target="_blank">
+		<img alt="LeetCode-Stats" src="https://leetcard.jacoblin.cool/iamarghamallick?theme=dark&font=Noto%20Sans%20Tagbanwa&ext=heatmap" width="80%">
 	</a>
 </div>
-
-<div align="center">
-	<a href="https://iamarghamallick.github.io/portfolio/" target="_blank">
-		<img alt="languages-over-time" src="https://stats.quine.sh/iamarghamallick/languages-over-time?theme=dark" width="80%">
-	</a>
-</div>
-
----
-
-### Support Me
-<p>
-  <a href="https://www.buymeacoffee.com/itsargha">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/itsargha" />
-  </a>
-</p>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ---
 
