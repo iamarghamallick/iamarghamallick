@@ -8,6 +8,12 @@
 
 ---
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-iamarghamallick-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/iamarghamallick/)
+[![X](https://img.shields.io/badge/X-iamarghamallick-lightblue?style=plastic&logo=x)](https://x.com/iamarghamallick)
+[![LeetCode](https://img.shields.io/badge/LeetCode-iamarghamallick-black?style=plastic&logo=leetcode)](https://leetcode.com/u/iamarghamallick/)
+[![GfG](https://img.shields.io/badge/GfG-iamarghamallick-green?style=plastic&logo=geeksforgeeks&labelColor=white)](https://www.geeksforgeeks.org/user/iamarghamallick/)
+[![GitHub](https://img.shields.io/badge/GitHub-iamarghamallick-blue?style=plastic&logo=github)](https://github.com/iamarghamallick)
+
 ## 😄 About Me
 - 🌱 I’m currently learning **Machine Learning, AI and Backend Development Technologies**.
 
