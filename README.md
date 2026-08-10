@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+Argha+Mallick,+a+CS+undergrad+from+Kolkata,+India.;Passionate+about+technologies+and+its+limitless+possibilities!;&center=true&color=40b983&duration=7000&multiline=false&width=1000)](https://github.com/iamarghamallick)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+Argha+Mallick+%F0%9F%91%8B,+a+Computer+Science+graduate+from+Kolkata,+India.;Software+Engineer+%7C+Java+%7C+Spring+Boot+%7C+Full+Stack+Development;Building%2C+learning%2C+and+exploring+the+world+of+technology!&center=true&color=40b983&duration=5000&multiline=false&width=1000)](https://github.com/iamarghamallick)
 
 <p align="right">
 	<a href="https://iamarghamallick.github.io/portfolio/" target="_blank">
@@ -14,18 +14,27 @@
 [![GfG](https://img.shields.io/badge/GfG-iamarghamallick-green?style=plastic&logo=geeksforgeeks&labelColor=white)](https://www.geeksforgeeks.org/user/iamarghamallick/)
 [![GitHub](https://img.shields.io/badge/GitHub-iamarghamallick-blue?style=plastic&logo=github)](https://github.com/iamarghamallick)
 
-## 😄 About Me
-- 🌱 I’m currently learning **Machine Learning, AI and Backend Development Technologies**.
+---
 
-- ❤️ I'm Currently Persuing my **B Tech** in **Computer Science and Engineering (CSE)**.
+## 👋 About Me
 
-- 🔥 I've started Exploring the Field of GoogleCloud as well ✨ and Hope to Contribute to that Field as well.
+- 💻 **Computer Science & Engineering graduate (CSE '26)** with a strong interest in **Software Engineering, Full Stack Development, Backend Development, and AI/ML**.
 
-- 💬 Ask me about **GoogleCloud Programs, Python, Java, JavaScript, C, C++ etc.**
+- 🚀 Experienced with **Java, Spring Boot, Angular, JavaScript, React, Next.js, Python, C, and C++**.
 
-- 📫 How to reach me **contact.arghamallick@gmail.com**
+- 🏢 Completed a **Software Engineering internship at Cognizant**, where I worked with **Java, Spring Boot, and Angular** on full-stack application development.
 
-- 🔥🔥 Have a look at [**My Portfolio**](https://iamarghamallick.github.io/portfolio) and you can contact me from there! 🔥🔥
+- ☁️ Passionate about **Google Cloud, Cloud Computing, and modern software development technologies**.
+
+- 🧠 Currently strengthening my skills in **Data Structures & Algorithms, System Design, Backend Engineering, and Cloud Technologies**.
+
+- 🔨 I enjoy building **real-world projects**, exploring new technologies, and continuously improving my problem-solving skills.
+
+- 💬 Ask me about **Java, Spring Boot, Full Stack Development, DSA, Google Cloud, Python, JavaScript, or AI/ML**.
+
+- 📫 Reach me at **[contact.arghamallick@gmail.com](mailto:contact.arghamallick@gmail.com)**
+
+- 🌐 Check out my **[Portfolio](https://iamarghamallick.github.io/portfolio)** to explore my projects and work.
 
 ---
 
