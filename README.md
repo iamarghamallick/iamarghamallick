@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+Argha+Mallick+%F0%9F%91%8B,+a+Computer+Science+graduate+from+Kolkata,+India.;Software+Engineer+%7C+Java+%7C+Spring+Boot+%7C+Full+Stack+Development;Building%2C+learning%2C+and+exploring+the+world+of+technology!&center=true&color=40b983&duration=5000&multiline=false&width=1000)](https://github.com/iamarghamallick)
 
 <p align="right">
-	<a href="https://iamarghamallick.github.io/portfolio/" target="_blank">
+	<a href="https://iamarghamallick.github.io" target="_blank">
 		<img src="https://komarev.com/ghpvc/?username=iamarghamallick&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views"/>
 	</a>
 </p>
@@ -32,17 +32,17 @@
 
 - 📫 Reach me at **[contact.arghamallick@gmail.com](mailto:contact.arghamallick@gmail.com)**
 
-- 🌐 Check out my **[Portfolio](https://iamarghamallick.github.io/portfolio)** to explore my projects and work.
+- 🌐 Check out my **[Portfolio](https://iamarghamallick.github.io)** to explore my projects and work.
 
 ---
 
-[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamarghamallick&theme=vue&bg_color=00000000&hide_border=true)](https://iamarghamallick.github.io/portfolio/)
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamarghamallick&theme=vue&bg_color=00000000&hide_border=true)](https://iamarghamallick.github.io)
 
 ---
 
 <h3 align="center">Actively Learning</h3>
 <p align="center">
-	<a href="https://iamarghamallick.github.io/portfolio/" target="_blank">
+	<a href="https://iamarghamallick.github.io" target="_blank">
 		<img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif">
 	</a>
 </p>
