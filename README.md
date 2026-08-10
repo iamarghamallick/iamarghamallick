@@ -14,8 +14,6 @@
 [![GfG](https://img.shields.io/badge/GfG-iamarghamallick-green?style=plastic&logo=geeksforgeeks&labelColor=white)](https://www.geeksforgeeks.org/user/iamarghamallick/)
 [![GitHub](https://img.shields.io/badge/GitHub-iamarghamallick-blue?style=plastic&logo=github)](https://github.com/iamarghamallick)
 
----
-
 ## 👋 About Me
 
 - 💻 **Computer Science & Engineering graduate (CSE '26)** with a strong interest in **Software Engineering, Full Stack Development, Backend Development, and AI/ML**.
@@ -38,31 +36,7 @@
 
 ---
 
-<div align="center">
-	<a href="https://iamarghamallick.github.io/portfolio/" target="_blank">
-  		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamarghamallick&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" width="80%"/>
-	</a>
-</div>
-
-<div align="center">
-	<a href="https://iamarghamallick.github.io/portfolio/" target="_blank">
-  		<img src="https://github-readme-stats.vercel.app/api?username=iamarghamallick&show_icons=true&locale=en&langs_count=20&count_private=true&theme=transparent&hide_border=true" width="80%"/>
-	</a>
-</div>
-
-<div align="center">
-	<a href="https://iamarghamallick.github.io/portfolio/" target="_blank">
-  		<img src="https://github-readme-streak-stats.herokuapp.com?user=iamarghamallick&theme=vue&background=00000000&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="iamarghamallick" width="80%"/>
-	</a>
-</div>
-
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamarghamallick&theme=vue&bg_color=00000000&hide_border=true)](https://iamarghamallick.github.io/portfolio/)
-
-<div align=center>
-	<a href="https://iamarghamallick.github.io/portfolio/" target="_blank">
-  		<img src="https://github-profile-trophy.vercel.app/?username=iamarghamallick&no-bg=true&theme=radical&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers,Stars&column=6" alt="zumrudu-anka" width=200% height=100%/>
-	</a>
-</div>
 
 ---
 
