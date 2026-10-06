@@ -36,10 +36,6 @@
 
 ---
 
-[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamarghamallick&theme=vue&bg_color=00000000&hide_border=true)](https://iamarghamallick.github.io)
-
----
-
 <h3 align="center">Actively Learning</h3>
 <p align="center">
 	<a href="https://iamarghamallick.github.io" target="_blank">
